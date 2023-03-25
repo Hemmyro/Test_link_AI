@@ -16,4 +16,4 @@ async def on_message(message):
         response = "Ответ от ИИ Midjourney"
         await message.channel.send(response)
 
-client.run('YOUR_BOT_TOKEN')
+client.run('MTA4ODk2OTcwODgxODE0OTQyNg.Gcu-tI.3MQ3PHZKWIv_480oBc8Aqky17noTRfFo46VT_g')
